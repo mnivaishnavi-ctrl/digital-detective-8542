@@ -8,3 +8,11 @@
 | `git log -5 --oneline` | Shows the five most recent commits in a short format. |
 
 Staging selects changes for a commit. Committing saves the selected changes in Git history.
+
+## Task 6.2 - Create and use a branch
+
+## My Learning
+
+- IPOS explains how a computer takes input, processes it, gives output, and stores information.
+- Terminal commands help me find and manage files and folders.
+- Python can convert decimal numbers to binary and hexadecimal.
