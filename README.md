@@ -52,3 +52,10 @@ I will complete each mission in order, document my understanding, and keep evide
 ## Completion Summary
 
 Mission 0 – GitHub Workspace Setup, Mission 3 – Operating System, and Mission 4 – Programs have been completed. Missions 3 and 4 have been documented and committed separately; the remaining missions are still in progress.
+
+
+## My Learning
+
+- IPOS explains how a computer takes input, processes it, gives output, and stores information.
+- Terminal commands help me find and manage files and folders.
+- Python can convert decimal numbers to binary and hexadecimal.
